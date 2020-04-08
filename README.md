@@ -1,9 +1,9 @@
 ## Robomon
 
-This project is from a course project on udemy named Robofriends
+This project is an altered version of a udemy course project called 'robofriends',
 
-Created with different techniques:
-### `React Hooks`
-### `Tailwind Css`
-### `Axios not fetch`
-### `Different Theme`
+**This contains:**
+* React Hooks
+* Tailwind Css
+* Axios
+* Changed Theme
