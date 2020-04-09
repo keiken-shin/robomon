@@ -15,7 +15,7 @@ const Pagination = ({ postsPerPage, totalPosts, paginate }) => {
                     <li key={number} className="">
                         <a 
                             onClick={() => paginate(number)} 
-                            href="!#" 
+                            href
                             className="py-2 px-4 bg-gray-800 hover:bg-gray-700 focus:bg-gray-700">
                             {number}
                         </a>
