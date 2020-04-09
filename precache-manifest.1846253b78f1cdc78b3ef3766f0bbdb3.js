@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fecf4256c83f2bc636e6396ac0bf745",
+    "revision": "158d8fefd9262a21b913fb7e36578e3b",
     "url": "/robomon/index.html"
   },
   {
-    "revision": "d211f8c38e74f47e5df8",
+    "revision": "1efef9c28f8ec4ff8fbc",
     "url": "/robomon/static/css/main.096afcfd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robomon/static/js/2.22f2be58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d211f8c38e74f47e5df8",
-    "url": "/robomon/static/js/main.027fb0d4.chunk.js"
+    "revision": "1efef9c28f8ec4ff8fbc",
+    "url": "/robomon/static/js/main.b3151bec.chunk.js"
   },
   {
     "revision": "f6f73861718d58d426c4",
