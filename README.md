@@ -1,8 +1,8 @@
-## Robomon
+# Robomon
 
-This project is an altered version of a udemy course project called 'robofriends',
+## ZTM Project
 
-**This contains:**
+**Using**
 * React Hooks
 * Tailwind Css
 * Axios
