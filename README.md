@@ -6,4 +6,3 @@
 * React Hooks
 * Tailwind Css
 * Axios
-* Changed Theme
